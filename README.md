@@ -1,5 +1,6 @@
 # Budget Tracker
 <img src="budget1.png">
+
 ## Table of Contents
 * [Description](#Description)
 * [Installation Instruction](#Installation-Instructions)
